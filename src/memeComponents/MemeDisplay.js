@@ -1,6 +1,5 @@
 import React from "react";
 import Header from './Header';
-import Footer from './Footer';
 
 function MemeDisplay(props) {
   return (
@@ -116,7 +115,7 @@ function MemeDisplay(props) {
                 </form>
               </div>
             </div>
-            <Footer />
+           
           </div>
         </div>
       </div>
