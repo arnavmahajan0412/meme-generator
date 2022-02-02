@@ -1,6 +1,7 @@
 import React from "react";
 import Header from './Header';
 import Footer from './Footer';
+
 function MemeDisplay(props) {
   return (
     <div className="jumbotron bg-info">
